@@ -2474,7 +2474,7 @@ python-digitalocean==1.17.0 \
     --hash=sha256:0032168e022e85fca314eb3f8dfaabf82087f2ed40839eb28f1eeeeca5afb1fa \
     --hash=sha256:107854fde1aafa21774e8053cf253b04173613c94531f75d5a039ad770562b24
     # via -r requirements/dev.in
-python-ldap==3.4.4 \
+python-ldap==3.4.5 \
     --hash=sha256:7edb0accec4e037797705f3a05cbf36a9fde50d08c8f67f2aef99a2628fab828
     # via
     #   -r requirements/common.in
