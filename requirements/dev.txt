@@ -1977,7 +1977,7 @@ pathspec==0.12.1 \
     --hash=sha256:a0d503e138a4c123b27490a4f7beda6a01c6f288df0e4a8b79c7eb0dc7b4cc08 \
     --hash=sha256:a482d51503a1ab33b1c67a6c3813a26953dbdc71c31dacaef9a838c4e29f5712
     # via black
-peewee==3.17.7 \
+peewee==3.18.3 \
     --hash=sha256:6aefc700bd530fc6ac23fa19c9c5b47041751d92985b799169c8e318e97eabaa
     # via semgrep
 pep517==0.13.1 \
@@ -3069,7 +3069,7 @@ sqlalchemy2-stubs==0.0.2a38 \
     --hash=sha256:861d722abeb12f13eacd775a9f09379b11a5a9076f469ccd4099961b95800f9e \
     --hash=sha256:b62aa46943807287550e2033dafe07564b33b6a815fbaa3c144e396f9cc53bcb
     # via sqlalchemy
-sqlparse==0.5.1 \
+sqlparse==0.5.4 \
     --hash=sha256:773dcbf9a5ab44a090f3441e2180efe2560220203dc2f8c0b0fa141e18b505e4 \
     --hash=sha256:bb6b4df465655ef332548e24f08e205afc81b9ab86cb1c45657a7ff173a3a00e
     # via django
@@ -3359,7 +3359,7 @@ uritemplate==4.1.1 \
     --hash=sha256:4346edfc5c3b79f694bccd6d6099a322bbeb628dbf2cd86eea55a456ce5124f0 \
     --hash=sha256:830c08b8d99bdd312ea4ead05994a38e8936266f84b9a7878232db50b044e02e
     # via google-api-python-client
-urllib3==2.2.3 \
+urllib3==2.6.0 \
     --hash=sha256:ca899ca043dcb1bafa3e262d73aa25c465bfb49e0bd9dd5d59f1d0acba2f8fac \
     --hash=sha256:e7d814a81dad81e6caf2ec9fdedb284ecc9c73076b62654547cc64ccdcae26e9
     # via
